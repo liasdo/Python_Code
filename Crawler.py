@@ -1,6 +1,5 @@
 import requests, os
 from bs4 import BeautifulSoup
-from urllib.request import urlretrieve
 from wget import download
 
 proxies = {
@@ -8,8 +7,8 @@ proxies = {
   "https": "http://127.0.0.1:7890",
 }
 
-os.chdir("D:\H\本子\(C97) [Mappa Namatta (Mappa Ninatta)] Formidable wa Shikikan to Ichatsukitai (Azur Lane) [Chinese] [绅士仓库汉化]")
-url_head = "https://nhentai.net/g/297050/"
+os.chdir("D:\H\本子\[Ginhaha] Formidable to Tea Time + SP (Azur Lane) [Chinese]")
+url_head = "https://nhentai.net/g/291317/"
 page_num = 1
 while 1:
     try:
