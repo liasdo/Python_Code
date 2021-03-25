@@ -10,7 +10,7 @@ os.environ["https_proxy"] = "http://127.0.0.1:7890"
 
 os.chdir("D:\H\本子\欲求王")
 url_head = "https://nhentai.net/g/203256/"
-page_num = 337
+page_num = 418
 while 1:
     try:
         url = url_head + str(page_num)

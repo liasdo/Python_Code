@@ -1,0 +1,695 @@
+2021-03-23 10:33:00,962 - 12552-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:88] - INFO: 校验是否登录[失败]
+2021-03-23 10:33:00,962 - 12552-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:89] - INFO: 请重新输入cookie
+2021-03-23 10:33:02,007 - 12552-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:88] - INFO: 校验是否登录[失败]
+2021-03-23 10:33:02,007 - 12552-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:89] - INFO: 请重新输入cookie
+2021-03-23 10:34:33,737 - 13148-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:88] - INFO: 校验是否登录[失败]
+2021-03-23 10:34:33,737 - 13148-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:89] - INFO: 请重新输入cookie
+2021-03-23 10:34:33,739 - 1588-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:88] - INFO: 校验是否登录[失败]
+2021-03-23 10:34:33,739 - 1588-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:89] - INFO: 请重新输入cookie
+2021-03-23 10:34:33,748 - 18412-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:88] - INFO: 校验是否登录[失败]
+2021-03-23 10:34:33,748 - 18412-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:89] - INFO: 请重新输入cookie
+2021-03-23 10:34:33,741 - 2408-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:88] - INFO: 校验是否登录[失败]
+2021-03-23 10:34:33,751 - 2408-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:89] - INFO: 请重新输入cookie
+2021-03-23 10:34:33,755 - 6372-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:88] - INFO: 校验是否登录[失败]
+2021-03-23 10:34:33,755 - 6372-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:89] - INFO: 请重新输入cookie
+2021-03-23 10:34:34,783 - 13148-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:88] - INFO: 校验是否登录[失败]
+2021-03-23 10:34:34,783 - 13148-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:89] - INFO: 请重新输入cookie
+2021-03-23 10:34:34,784 - 1588-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:88] - INFO: 校验是否登录[失败]
+2021-03-23 10:34:34,784 - 1588-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:89] - INFO: 请重新输入cookie
+2021-03-23 10:34:34,793 - 18412-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:88] - INFO: 校验是否登录[失败]
+2021-03-23 10:34:34,793 - 18412-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:89] - INFO: 请重新输入cookie
+2021-03-23 10:34:34,797 - 2408-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:88] - INFO: 校验是否登录[失败]
+2021-03-23 10:34:34,797 - 2408-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:89] - INFO: 请重新输入cookie
+2021-03-23 10:34:35,294 - 6372-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:88] - INFO: 校验是否登录[失败]
+2021-03-23 10:34:35,294 - 6372-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:89] - INFO: 请重新输入cookie
+2021-03-23 10:34:43,279 - 13040-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:88] - INFO: 校验是否登录[失败]
+2021-03-23 10:34:43,279 - 13040-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:89] - INFO: 请重新输入cookie
+2021-03-23 10:34:44,321 - 13040-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:88] - INFO: 校验是否登录[失败]
+2021-03-23 10:34:44,322 - 13040-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:89] - INFO: 请重新输入cookie
+2021-03-23 10:50:30,507 - 9220-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:84] - INFO: 校验是否登录[成功]
+2021-03-23 10:50:30,650 - 9220-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:85] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:31,030 - 9220-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:100] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:31,683 - 9220-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:100] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:32,235 - 9220-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:100] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:32,825 - 9220-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:100] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:33,446 - 9220-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:100] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:34,026 - 9220-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:100] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:44,115 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:84] - INFO: 校验是否登录[成功]
+2021-03-23 10:50:44,150 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:84] - INFO: 校验是否登录[成功]
+2021-03-23 10:50:44,157 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:84] - INFO: 校验是否登录[成功]
+2021-03-23 10:50:44,182 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:84] - INFO: 校验是否登录[成功]
+2021-03-23 10:50:44,190 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:84] - INFO: 校验是否登录[成功]
+2021-03-23 10:50:44,281 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:85] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:44,290 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:85] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:44,424 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:44,433 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:44,741 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:44,741 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:44,741 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:44,752 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:44,752 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:44,752 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:44,922 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:85] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:44,996 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:85] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:45,055 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:45,129 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:45,381 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:85] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:45,388 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:45,388 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:45,388 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:45,524 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:45,527 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:45,527 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:45,527 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:45,745 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:45,852 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:45,852 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:45,852 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:45,874 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:46,072 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:46,072 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:46,072 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:46,226 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:46,226 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:46,226 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:46,296 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:46,396 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:46,572 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:46,592 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:46,592 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:46,592 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:46,633 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:46,637 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:46,717 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:46,717 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:46,717 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:46,876 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:46,876 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:46,876 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:46,978 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:46,978 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:46,978 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:46,988 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:46,989 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:46,989 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:47,070 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:47,333 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:47,363 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:47,363 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:47,363 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:47,459 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:47,465 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:47,678 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:47,678 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:47,678 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:47,692 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:47,749 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:47,749 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:47,749 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:47,782 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:47,782 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:47,782 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:48,010 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:48,010 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:48,010 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:48,111 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:48,120 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:48,122 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:48,412 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:48,413 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:48,413 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:48,420 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:48,420 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:48,420 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:48,460 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:48,460 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:48,460 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:48,515 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:48,609 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:48,831 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:48,831 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:48,832 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:48,902 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:48,905 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:48,921 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:48,921 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:48,921 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:49,221 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:49,222 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:49,222 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:49,227 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:49,227 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:49,227 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:49,303 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:49,352 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:49,426 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:49,615 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:49,629 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:49,629 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:49,629 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:49,687 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+��低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:49,687 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:49,687 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:49,714 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:49,714 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:49,714 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:49,940 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:49,940 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:49,940 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:49,990 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:49,990 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:49,990 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:50,033 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:50,115 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:50,313 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:50,313 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:50,313 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:50,447 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:50,460 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:50,467 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:50,468 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:50,468 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:50,705 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:50,769 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:50,769 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:50,769 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:50,780 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:50,780 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:50,781 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:50,851 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:50,892 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:51,021 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:51,021 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:51,022 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:51,195 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:51,195 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:51,195 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:51,205 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:51,205 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:51,205 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:51,229 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:51,448 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:51,521 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:51,521 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:51,522 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:51,639 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:51,762 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:51,765 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:51,765 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:51,765 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:51,858 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:51,978 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:51,978 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:51,978 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:51,980 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:52,092 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:52,092 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:52,092 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:52,219 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:52,219 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:52,219 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:52,257 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:52,276 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:52,276 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:52,276 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:52,501 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:52,590 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:52,596 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:52,597 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:52,597 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:52,778 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:52,796 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:52,796 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:52,796 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:52,922 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:52,922 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:52,923 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:52,941 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:53,059 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:53,062 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:53,062 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:53,063 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:53,227 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:53,227 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:53,227 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:53,299 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:53,376 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:53,405 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:53,405 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:53,405 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:53,511 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:53,604 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:53,604 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:53,604 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:53,681 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:53,681 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:53,681 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:53,796 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:53,796 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:53,796 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:53,798 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:53,987 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:53,992 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:54,115 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:54,115 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:54,116 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:54,149 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:54,318 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:54,318 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:54,318 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:54,328 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:54,328 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:54,328 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:54,333 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:54,484 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:54,485 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:54,485 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:54,525 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:54,660 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:54,660 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:54,660 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:54,665 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:54,761 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:54,871 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:54,871 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:54,871 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:54,926 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:55,017 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:55,017 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:55,017 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:55,029 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:55,080 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:55,080 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:55,080 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:55,231 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:55,231 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:55,231 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:55,345 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:55,345 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:55,345 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:55,378 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:55,394 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:55,442 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:55,564 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:55,676 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:55,677 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:55,677 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:55,720 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:55,809 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:55,810 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:55,810 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:55,865 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:55,866 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:55,866 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:56,017 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:56,092 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:56,092 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:56,093 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:56,112 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:56,112 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:56,113 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:56,295 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:56,302 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:56,302 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:56,302 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:56,533 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:56,613 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:56,613 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:56,613 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:56,681 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:56,829 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:56,829 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:56,829 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:56,899 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:57,057 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:57,057 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:57,058 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:57,065 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:57,111 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:57,217 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:57,217 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:57,217 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:57,237 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:57,405 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:57,405 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:57,405 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:57,504 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:57,504 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:57,504 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:57,506 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:57,516 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:57,516 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:57,516 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:57,621 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:57,853 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:57,853 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:57,853 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:57,892 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:57,950 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:57,950 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:57,950 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:58,008 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:58,188 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:58,188 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:58,188 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:58,216 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:58,310 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:58,336 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:58,337 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:58,337 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:58,342 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:58,519 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:58,520 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:58,520 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:58,553 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:58,621 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:58,621 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:58,621 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:58,674 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:58,674 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:58,674 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:58,836 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:58,839 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:58,839 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:58,839 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:58,875 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:59,046 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:59,121 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:59,122 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:59,122 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:59,218 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:59,219 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:59,219 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:59,311 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:59,353 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:59,353 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:59,353 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:59,552 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:59,558 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:59,610 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:59,688 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:59,688 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:59,688 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:59,864 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:50:59,873 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:59,873 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:59,873 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:59,887 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:59,887 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:59,887 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:50:59,963 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:50:59,963 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:50:59,963 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:00,157 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:00,157 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:00,157 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:00,177 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:00,319 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:00,357 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:00,517 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:00,517 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:00,518 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:00,638 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:00,638 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:00,638 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:00,650 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:00,670 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:00,670 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:00,670 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:00,855 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:00,979 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:00,979 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:00,979 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:01,003 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:01,200 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:01,200 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:01,200 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:01,342 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:01,342 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:01,342 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:01,462 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:01,508 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:01,619 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:01,842 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:01,931 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:01,931 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:01,931 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:01,948 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:01,949 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:01,949 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:01,985 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:01,985 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:01,985 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:02,186 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:02,186 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:02,186 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:02,337 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:02,405 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:02,417 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:02,430 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:02,669 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:02,669 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:02,669 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:02,680 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:02,727 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:02,727 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:02,727 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:02,736 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:02,736 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:02,736 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:02,742 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:02,742 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:02,743 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:02,985 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:02,986 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:02,986 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:03,070 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:03,073 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:03,247 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:03,385 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:03,426 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:03,427 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:03,427 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:03,451 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:03,451 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:03,451 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:03,556 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:03,556 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:03,556 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:03,667 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:03,698 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:03,698 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:03,698 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:03,828 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:03,918 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:03,934 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:04,035 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:04,035 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:04,035 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:04,109 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:04,109 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:04,109 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:04,141 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:04,214 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:04,214 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:04,214 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:04,249 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:04,249 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:04,249 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:04,382 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:04,468 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:04,468 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:04,468 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:04,558 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:04,660 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:04,688 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:04,688 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:04,688 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:04,840 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:04,911 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:04,911 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:04,911 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:04,934 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:04,963 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:04,963 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:04,963 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:05,126 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:05,197 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:05,197 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:05,197 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:05,266 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:05,266 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:05,266 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:05,463 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:05,463 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:05,463 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:05,476 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:05,602 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:05,612 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:05,749 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:05,827 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:05,827 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:05,827 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:05,859 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:05,935 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:05,936 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:05,936 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:05,944 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:05,944 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:05,944 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:06,058 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:06,058 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:06,058 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:06,158 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:06,159 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:06,159 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:06,251 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:06,437 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:06,451 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:06,587 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:06,594 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:06,594 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:06,594 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:06,728 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:06,728 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:06,728 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:06,758 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:06,758 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:06,758 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:06,909 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:06,909 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:06,909 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:07,019 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:07,078 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:07,343 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:07,343 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:07,343 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:07,427 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:07,427 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:07,427 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:07,428 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:07,433 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:07,737 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:07,738 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:07,738 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:07,788 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:07,788 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:07,788 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:07,795 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:08,098 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:08,147 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:08,147 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:08,147 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:08,248 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:08,295 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:08,461 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:08,461 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:08,462 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:08,534 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:08,559 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:08,559 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:08,559 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:08,606 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:08,606 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:08,606 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:08,612 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:08,872 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:08,878 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:08,878 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:08,878 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:08,988 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:08,988 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:08,988 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:09,086 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:09,106 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:09,178 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:09,178 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:09,178 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:09,382 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:09,382 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:09,382 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:09,396 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:09,396 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:09,397 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:09,415 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:09,416 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:09,558 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:09,746 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:09,747 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:09,747 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:09,769 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:09,769 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:09,769 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:09,781 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:09,870 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:09,871 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:09,871 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:10,081 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:10,082 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:10,082 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:10,293 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:10,293 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:10,364 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:10,514 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:10,586 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:10,587 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:10,587 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:10,669 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:10,669 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:10,669 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:10,836 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:10,836 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:10,836 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:11,025 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:11,045 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:11,092 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:11,353 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:11,353 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:11,353 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:11,356 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:11,396 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:11,396 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:11,396 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:11,431 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:11,431 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:11,432 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:11,620 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:11,620 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:11,620 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:11,722 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:11,722 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:11,722 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:11,736 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:11,825 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:12,056 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:12,056 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:12,056 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:12,166 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:12,166 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:12,166 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:12,233 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:12,329 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:12,442 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:12,564 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:12,565 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:12,565 - 9620-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:12,578 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:12,640 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:12,640 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:12,640 - 6768-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:12,661 - 19488-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:188] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:12,767 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:12,767 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:12,767 - 15440-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:12,861 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:189] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:12,861 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:14] - INFO: 正在等待到达设定时间:2020-06-09 10:00:00.150000
+2021-03-23 10:51:12,861 - 3264-MainThread - D:\1工作\Code\Python\jd_seckill\timer.py[line:18] - INFO: 时间到达，开始执行……
+2021-03-23 10:51:18,740 - 15588-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:84] - INFO: 校验是否登录[成功]
+2021-03-23 10:51:18,882 - 15588-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:85] - INFO: 用户:梅施赛尔特的掠夺
+2021-03-23 10:51:19,195 - 15588-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:100] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:19,766 - 15588-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:100] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:20,410 - 15588-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:100] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:21,029 - 15588-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:100] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:21,642 - 15588-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:100] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
+2021-03-23 10:51:22,260 - 15588-MainThread - D:\1工作\Code\Python\jd_seckill\jd_spider_requests.py[line:100] - INFO: 商品名称:京东(JD.COM)-正品低价、品质保障、配送及时、轻松购物！
