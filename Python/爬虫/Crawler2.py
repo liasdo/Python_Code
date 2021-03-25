@@ -3,19 +3,19 @@ from bs4 import BeautifulSoup
 from wget import download
 from urllib.request import urlretrieve
 
-proxies = {
-  "http": "http://127.0.0.1:7890",
-  "https": "http://127.0.0.1:7890",
-}
+os.environ["http_proxy"] = "http://127.0.0.1:7890"
+os.environ["https_proxy"] = "http://127.0.0.1:7890"
+
+
 
 os.chdir("D:\H\本子\欲求王")
 url_head = "https://nhentai.net/g/203256/"
-page_num = 169
+page_num = 1
 while 1:
     try:
         url = url_head + str(page_num)
-        data = requests.get(url, proxies=proxies).text
-        status_code = requests.get(url, proxies=proxies).status_code
+        data = requests.get(url).text
+        status_code = requests.get(url).status_code
         if status_code > 200:
             print("爬取完成，告辞")
             break
@@ -30,4 +30,5 @@ while 1:
         page_num = page_num + 1
     except:
         print("出现迷之问题")
-        break
+        page_num = page_num + 1
+        continue
